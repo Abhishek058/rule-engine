@@ -1,5 +1,3 @@
-Here's the corrected version of your documentation with proper markdown formatting for code blocks and other minor adjustments:
-
 ```markdown
 # Rule Engine Application
 
@@ -39,14 +37,14 @@ This application is a rule engine that determines user eligibility based on attr
 2. **Install Backend Dependencies**
 
    ```bash
-   cd backend
+   cd server
    npm install
    ```
 
 3. **Install Frontend Dependencies**
 
    ```bash
-   cd ../frontend
+   cd ../client
    npm install
    ```
 
@@ -61,14 +59,14 @@ This application is a rule engine that determines user eligibility based on attr
 5. **Start the Backend Server**
 
    ```bash
-   cd ../backend
+   cd ../server
    npm start
    ```
 
 6. **Start the Frontend Development Server**
 
    ```bash
-   cd ../frontend
+   cd ../client
    npm start
    ```
 
@@ -153,5 +151,3 @@ This application is a rule engine that determines user eligibility based on attr
 
 You can add and run tests to ensure everything is working correctly. Create tests in the backend and frontend directories, then run them using the respective test commands for each environment.
 ```
-
-This revision ensures that all code blocks are properly formatted with the correct syntax highlighting, and the document structure is maintained for better readability.
