@@ -58,7 +58,7 @@ This application is a rule engine that determines user eligibility based on attr
 
    ```bash
    cd ../server
-   npm start
+   nodemon server.js
    ```
 
 6. **Start the Frontend Development Server**
