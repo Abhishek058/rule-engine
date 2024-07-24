@@ -1,4 +1,3 @@
-```markdown
 # Rule Engine Application
 
 ## Overview
@@ -28,7 +27,6 @@ This application is a rule engine that determines user eligibility based on attr
 ### Installation
 
 1. **Clone the Repository**
-
    ```bash
    git clone https://github.com/Abhishek058/rule-engine.git
    cd rule-engine
